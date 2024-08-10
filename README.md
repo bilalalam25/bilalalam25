@@ -2,7 +2,8 @@
 - 👀 I enjoy cleaning data to uncover interesting stories which helps me identify patterns and relationships within datasets.
 - 💞️ I’m looking to collaborate on interesting projects.
 - ⚡ Fun fact: I like sketching.
-- 📬 Mail: bilalalam25@gmail.com 
+- 📬 Mail: bilalalam25@gmail.com
+- 👨🏻‍💻 Projects: https://github.com/bilalalam25?tab=repositories
 
 
 ## Programming Skills
